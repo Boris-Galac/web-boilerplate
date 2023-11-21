@@ -2,6 +2,7 @@
 @import "abstracts/defaults.css";
 @import "abstracts/colors.css";
 @import "abstracts/typography.css";
+@import "abstracts/sizes.css";
 /* utilities */
 @import "utilities/utility-classes.css";
 /* components */
