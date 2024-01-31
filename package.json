@@ -1,10 +1,10 @@
 {
-  "name": "galac-design",
+  "name": "boiler-plate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postcss": "postcss css/style.css --dir dist --watch"
+    "postcss": "postcss src/css/style.css --dir dist --watch"
   },
   "keywords": [],
   "author": "",
